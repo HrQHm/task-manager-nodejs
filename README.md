@@ -5,7 +5,7 @@
 [![NodeJS](https://img.shields.io/badge/NodeJs-v16.13.1-green)](https://www.prisma.io/)
 
 
-Backend de Gerenciador de Tarefeas, utilizando NodeJs, TypeScript. Os dados são armazenados no MongoDb Atlas.
+Backend de Gerenciador de Tarefas, utilizando NodeJs, TypeScript. Os dados são armazenados no MongoDb Atlas.
 
 ---
 
